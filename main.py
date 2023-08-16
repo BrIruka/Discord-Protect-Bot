@@ -217,4 +217,4 @@ async def language(ctx, lang):
 
 
 
-bot.run('MTA3ODQyMjk3Njk1MDcxODYxNA.GCwvxv.jHTNqC36N9Vqzen8NwJORsnjgYyR2W0_RTpim8')
+bot.run('BOT_TOKEN')
